@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidTTS</string>
+    <string name="speech_prompt">Fale Algo</string>
+    <string name="speech_not_supported">Num intindi u gui eli falô</string>
+</resources>
